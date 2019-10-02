@@ -4,6 +4,13 @@
     <meta charset="utf-8">
     <title>lucky yadav k</title>
   </head>
+  
+  
+  
+  
+  
+  
+  
   <body style="background-color:rgb(168, 183, 185);">
       <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
     <marquee><h3 style="color:rgb(240, 21, 210);"><center><-----invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue : at kalasgiri at 10:00 (more informetion call 7259618166(lakshmikanth k) / 9731364026(rahul) /6362449630(mounika))</h3> </center></marquee>
