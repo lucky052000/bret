@@ -14,21 +14,16 @@
             <td>
                     <img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71531598_378828829694078_7222026326138421248_n.jpg?_nc_cat=103&_nc_oc=AQmxyoEcyO-Tii85keNrafhtxh4ZjaLRf3AHPOtTr5m9Hatp1DRy2GayliQEI8xhw_CPy_RA-DtKBc0UrSCUIlyd&_nc_ht=scontent.fcok1-1.fna&oh=03c31095ccc2bbb216d0eb293d4e2637&oe=5E360CBA"  alt="BRET" >
             </td>
+      </tr>
+      <tr>
             <td>
                     <img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71567985_378828716360756_4409058837315715072_n.jpg?_nc_cat=105&_nc_oc=AQl85OJ5tIp3iQeoMtZ1Goh6Om4xMzsTDbWltq_9V4otoH9BIcUFb7mCTPBT3w0ugmBweLgNy9gHiHuMQBIKKJla&_nc_ht=scontent.fcok1-1.fna&oh=2878de5f1af383de94e6ac2ebff2acc8&oe=5E32849A"  alt="BRET" >
             </td>
-        </tr>
-        <tr>
             <td>
                     <img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71760388_378828706360757_588200710399590400_n.jpg?_nc_cat=111&_nc_oc=AQl73gMzShwRY8FkcrY1SIHAI7HupJBKPqzWH5jM3XnPAIwBMcX6TBj8xO5hHr9OuYEJViqfyQ8guF_SPMDNui5-&_nc_ht=scontent.fcok1-1.fna&oh=2708f91149f1da6e983faede545f1944&oe=5DF45884"  alt="BRET" >
             </td>
-            <td>
-                    <img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71527254_378828669694094_8282084577606893568_n.jpg?_nc_cat=107&_nc_oc=AQmmxQZ-emmAbYnFbGLw5woqAH9c6vi4xEUXm7KJ3WMqsqd3-hIhLx5fDkKFZ9ypLUNGVBEYWTPeCssAWcjeXu4o&_nc_ht=scontent.fcok1-1.fna&oh=2089751c163b65d77f507c96c5d3197a&oe=5E2B5E80"  alt="BRET" >
-            </td>
-            <td>
-                <img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/72205370_378828719694089_8232461027980083200_n.jpg?_nc_cat=107&_nc_oc=AQlkHSXwkbxIA3sqP5DhXvyexKarBHsSdVy5H4ytn8uSbr5afXmcN1DXEOqLVWjm-cTdx3PwIBXH9VQ8eC7kNSMr&_nc_ht=scontent.fcok1-1.fna&oh=435b5d22135762c6ced969198c1e3a96&oe=5E22B487"  alt="BRET" >
-            </td>
-            </tr>
+      </tr>
+           
             </table>
       <center><h1 style="color:rgb(21, 190, 35);"><i>Hello buddies </i></h1></center>
       <center><h2 style="color:rgb(241, 238, 19);"><i> I hope you are doing well . </i></h2></center>
