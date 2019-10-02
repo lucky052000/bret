@@ -83,4 +83,4 @@
           <td> <a href="https://m.facebook.com/profile.php?id=100029394694143" ><h3> PUSHPA   </h3></a></td>
       </tr>
     </table>
-    <h2> in case any one are missing means contact this numBer : 7259618166<br>(LAKSHMI KANTH K)</h2>
+    <h2> in case any one are missing means contact this number : 7259618166<br>(LAKSHMI KANTH K)</h2>
