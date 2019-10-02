@@ -1,23 +1,28 @@
+
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
     <title>lucky yadav k</title>
   </head>
-  
-  
-  
-  
-  
-  
-  
   <body style="background-color:rgb(168, 183, 185);">
       <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
     <marquee><h3 style="color:rgb(240, 21, 210);"><center><-----invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue : at kalasgiri at 10:00 (more informetion call 7259618166(lakshmikanth k) / 9731364026(rahul) /6362449630(mounika))</h3> </center></marquee>
 
-    <marquee><h1><img src="https://lh3.googleusercontent.com/Wf5DlfZ3MX_XRyBG9t60oNsf1BPI9Bwk5XYn678yWXYA2bO1SAPNEbGj36WrNKHeTgZ8X2i9WzotPCYH6g4fDU2psAGCZsN6DZiFkQcax2K46ly1EN5w5O2aD1OTQoDLfUIEgVR1VNB5dPrWkPadducmAzLMgfsXaufzeEBIJFWT-XCsqf_PywMELta3eOlV0DHamCG7B6vEd0oi_xZ0U5znwHPdT-3tMz79CtOQ6dGdQLXe6QYh9EkMHAymaNps_QTaknLHF4-YPAIcuORuloptc5aVfrqZdJsCXwjrS6CpkoSowia4XkUzmMQPkYw52QZYlsbft9r_CYejP3deYB2ybPfyVR8jAMXH4W98xt5JMv17QRiKFjpUEuq0bkc704-Juu0QgutXpKTlrvQpVOrs8oyWXNAyq7RSr8SYsmO97JfQe5fAmPCINVaeqdvy8qdpDV0AfIOMNWfWI4tyCgDvauVY6iOjXwUQaj0aw9OD1ekLB9--ScQHK8Bt9-Tnz4qCKpWP0Ot9FaYU6Gqa2p1hSyJ6ga3-B1p1OW1qM8GmdlDnW8ebTPRb_FmVtU_ioP8SP4Z8R8jtgH5dw2KeZypJ6XyfT4RUesHV8Byn_u5abQf3Hv-l_QHQZi77ysWb5_7yH9MDvsEfadwaKyBTJIUgWcrT4E2U_uFJKY4SC-9LIi7EQxjL=w624-h312-no"  alt="hanuman" ><img src="https://lh3.googleusercontent.com/1EmUHOUXPpWA0ewAPlmD2LlSo9-T3ixEd5Imp9HCQYckVb_ZazZVqUrxbaAN4f849FozR1alEe7snXMBB9-6BN7g2wy2gQ50QT7DggK3Q9LNeA9ICK6O70dc_R-b8yMs9OHfohF8RjT6AWJuxIS33HaXgWijEPfMQA9T1I60t8D7fIBtUZ53Moo96rZjHcM21gWejgTr5abhqYHbI-3GrfJMn6n6Yfub0Rb8xEpAZ1YUMrj3OlMojHPhjJUva7ylYAcQcJHXH0IYzA0MSO8V0teLQ5j7fv2YL8vhZXvsjuF1kHwbNvcXVtgXQYSTutzFDLzlioQl7CymZhtv6s45XKGoMKDa3XFUtKUJstKemVG9HHhNMldTBzm-LJxSppzChxRFT1hJiFsNjEmJnAiV26a2AZu_VBNGAOZw4bLt0tB0MptjBxKoUPYIRdPvXF1HrqsL7YES9u6uXYVtk9WT1vmz2Jn_wpXv49svOZOW8bfxEYN_XEUDX938dfcA7FBd0ssJKUApi7oHq7wcHJdinB__R4v5nHhb1FsOhPQwW3o0yS9Ed923aPnRYcIIusR-kGhPKHvRtwmiy37fspvgeh0oL87vyQ1iYWuFWqodNhWS1QYazuEKMu_ry1K7DnL8GvDDsTBobUISC6Ykz2nS8WbyWnYUBWKKDdYIMxhS99fhWfr6VRCC=w624-h312-no"  alt="hanuman" ><img src="https://lh3.googleusercontent.com/KLKk-N1TfxNlr8uah_BL618OK0HwS2_lG7gp2qTQ27MRajFoqIMjL4fSbjfyou3y1Tdpi7G8hi941kg6cec-RICZcSFQZTqgZHlEefHte5SukUl0uUXa0yS3iM-w6G9i52wPz9iYjIgBaNHj3vf7cySbiCQlCSLYuPexa7BI7vlzyOhlIJWtxjjZck1IfRJ-C_-sj_0CBfHd0SwFscIPcB5bKQWfrv_x1ZUxt3hb7Igp0yFc9x3O-VS1e_y7f4qFPqCvKIKSgxfZc58xQdpxcplzgR7AjZlB4KjYBaIx0Ci4horq1f5GbOqEz-xDHgbn_VNZ5QYuTA4Ugxo_pEG7L-qEHFz80wbtkmzPh4ZqVcpFaj0NzxaMPnmAMqzyycTAT7AjAbzmM1DtIOcE_Ny79tPNiL7SLcKcnhoSUZea4Joh5_3BPji79zHXV2wth9HSFTE-ZLfIX3Ou5qnOhp4Xy8kmqHaUeNL12vX2K_H3QAK94tDf6ABBZ1z3fCZEQJXsWYeWHrK5qpiA0QKbDxVb8Lpo5ZOOJAHF_0VRVQHpBwxYNF5ZDthf8H1zyTX9ff1Ar_mSfg53g6xVwn0JPecwqyRomvSeO7x1p85fFICI2JRHPbNDZxxAfsPaXP-m0iUypKjQoAOtM82sCQ6X1gUiu-axYOC15MtFVgfyUWIHFPduITF2kLe9=w624-h312-no"  alt="hanuman"><img src="https://lh3.googleusercontent.com/pKYYOpf2C9DTUnjZ6BGuvSa1pJet87djmvpbN6LZJchSNTHWMTEyEshCLmHKOto5gvVovC3fd8Mo-Dh6nyKAP4H761VuSGDaFiay6Ifm0dIeXXCQZjgIhS_wqeUl-w8VxDdi4DfjwiEsNNL4Vd5vJ-6MhPpwmsojtcxdbaCzfCo8AuanHrHTOWlqUgDYlfaL3Y0yE5p71gBr2RmuCdIc9OcfZ5x-SE9JMdM0_ShlwNQCMLWo5GrmmExOLV-r_yAVt2kWDBWOgTlTUEq8UgpeDUImzp4BRZDnWCl_MoLhUrFUkpQIDLjrfqrfmoFvHGvqWChT284lfpuf-s6D-vmGUS3n2aRgISB3wikfucYxrb4Up7GPFNuTOQjA_6Nrku2h20zpnbIfoZJEgUNkcL4L3guFYigp0h5fD7Jb28b64nzD3z-x-XjCH_DTAq3TnELu8DQiXAXnWrQtAD-2zm3lWJWaYIILUEvhfwkRUgsQuC3nyXxM-rxy_WRUB5PHW_G548LIHPG6Lvw4ZEc6gpMlcbGjpyyfV1NbD_WnrqIW-d-qntsxGTfI0ciNEQrPf_aRHpV5FEUKrz0WCEYOnnqta7KtebcUogYcUWIfVG0KCPhfus-mcfcYAl31cUC-che_fF_Zth8_uAzsSQPd55BH9LzA4k9mJ8BqESiqHLTJOGr5CGk7cfxi=w624-h312-no"  alt="hanuman" ><img src="https://lh3.googleusercontent.com/7D91qRmGRytqI8j5ScqqUfHNy-ml4Qksjy0g68Aa5QoAZy35wrvMUJeCgiDuxZHUTntnG_TCCLJEBgyVhzyhE2yrFdtIDhPwlsdGIlsoCyiIQ_uHkFnTVHfgFbnwix2VqVYHdxumyJGXp_UKQmhMxh17aw0gILUa2Up2CywqbDZtrEMTUB0InM2LdBZldwybQUmZtvYS9FgUYyxEa0Ae7dHESvxzsOewlPrq_msuZHwZRRD9GatMqhgfkpjN1ImRjhgRrSsvmvB2M9V55Krxm6zacENQCmAzj2IWNZ2RzJTdUseI9O_iTx92mdJ7rMh4gAiAw3QJ4K-tM68_lxo6QddmRYpuUKQaPW4O14rVp1hBryfAWuCQbGscM-rcFlSIKyqhH1PGBJw2EFM8M0Y1hF3l8DqAMTfG--4ilMRxOX_ZNhkTzhY0BklEWodO0ocWv3GDn-P23MoXpyDp05_lbFfwHXv_I9RTis_xwHHctedZY-GHLx9MxdZdy25ZO3qh_AgW899-nU6shCN17Z6JwibV3lxkvr7x1I5mSb8VZzF0Ffu84B0I-Rw4gij1D8MCh3CSf3ENULH3rGyuOsWz2slsv4MEVL0DNtD8RdNxKLIaDWcv48muC5h3PRnvfhfFWViDfagt_7mxBMs3rvrGw0xhAftyW6E-YHmv5XYAhi0B830nW_Hn=w624-h312-no"  alt="hanuman"><img src="https://lh3.googleusercontent.com/y9Hx3tUs-YjTlxVgh1vTM1xhePjtid0sBhtTcAJ_X0sfSTD7H_8k_mW3d4SmiHjYfxc8lYlyaFGw7Zx10wCrN8tsAiuxscvvmLt7jFlU5HIXxw1rJVzCdv0zNoCTfz1VQzI6dR3nqn8dAvFVwAkQua-Xruc1nCwimUA5DJpRyRTJzz8uBL21TRLZcOIDmSNMr2mt8AckGoe2sjMTCfa1m5kSrNXQzuUSRLzicuV9dGR4guBA4b1EK577iCzVcx9TgHfnakqim9uCECOR0fuUhj22lR7_khG2kU1AdgL5GKdrvLSMQKOBCbtYtzX9wThqU5YkIXv-eX_17m1bPVosvqvDEji1kHyze7zMCfyOZ9gcpefWuqaz_h1jAvIELEkj51DLwWMhgQ2xWRk0_ApKLs0DIjpiJEa3fpu-2GNQ-suNm-3F9VBSAhWiOnFfk_T2acHYHitPFritXgHnuENVUjChtFOKd_uCb9cHwnluFzoGaR0jHu2TLzLoq567mdxPzkN3yIQlnBCHYqY7tpIgPr4S1R29K7_dzscRHvPi2el1Iptous0VaiTNW1DergviatD5_az491uk1XNsO1lcrHBK95PIJXyzF5OGu7eV1d5INEIwd63r5p4dms8mAwCtZ8qN06A5tyK1cdxbVGs1XLq1hOtvSOIMV2CF7t-5qywunQHS4FB9=w624-h312-no"  alt="hanuman" ></marquee>
+    <marquee><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/72248817_378828753027419_5910140131922149376_n.jpg?_nc_cat=110&_nc_oc=AQldXA_6xYlMn7jiMSRmYDwLRe0m16BAiDt26oMpmhMSwdlEZg8S5SCYwSOxR-p91efZlyk-ytfAtd5i50Hg4sur&_nc_ht=scontent.fcok1-1.fna&oh=cf3805cefeb1bb11af57bde40419218c&oe=5E24FDCC"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71531598_378828829694078_7222026326138421248_n.jpg?_nc_cat=103&_nc_oc=AQmxyoEcyO-Tii85keNrafhtxh4ZjaLRf3AHPOtTr5m9Hatp1DRy2GayliQEI8xhw_CPy_RA-DtKBc0UrSCUIlyd&_nc_ht=scontent.fcok1-1.fna&oh=03c31095ccc2bbb216d0eb293d4e2637&oe=5E360CBA"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71567985_378828716360756_4409058837315715072_n.jpg?_nc_cat=105&_nc_oc=AQl85OJ5tIp3iQeoMtZ1Goh6Om4xMzsTDbWltq_9V4otoH9BIcUFb7mCTPBT3w0ugmBweLgNy9gHiHuMQBIKKJla&_nc_ht=scontent.fcok1-1.fna&oh=2878de5f1af383de94e6ac2ebff2acc8&oe=5E32849A"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71760388_378828706360757_588200710399590400_n.jpg?_nc_cat=111&_nc_oc=AQl73gMzShwRY8FkcrY1SIHAI7HupJBKPqzWH5jM3XnPAIwBMcX6TBj8xO5hHr9OuYEJViqfyQ8guF_SPMDNui5-&_nc_ht=scontent.fcok1-1.fna&oh=2708f91149f1da6e983faede545f1944&oe=5DF45884"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71527254_378828669694094_8282084577606893568_n.jpg?_nc_cat=107&_nc_oc=AQmmxQZ-emmAbYnFbGLw5woqAH9c6vi4xEUXm7KJ3WMqsqd3-hIhLx5fDkKFZ9ypLUNGVBEYWTPeCssAWcjeXu4o&_nc_ht=scontent.fcok1-1.fna&oh=2089751c163b65d77f507c96c5d3197a&oe=5E2B5E80"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/72205370_378828719694089_8232461027980083200_n.jpg?_nc_cat=107&_nc_oc=AQlkHSXwkbxIA3sqP5DhXvyexKarBHsSdVy5H4ytn8uSbr5afXmcN1DXEOqLVWjm-cTdx3PwIBXH9VQ8eC7kNSMr&_nc_ht=scontent.fcok1-1.fna&oh=435b5d22135762c6ced969198c1e3a96&oe=5E22B487"  alt="BRET" ></marquee>
       <center><h1 style="color:rgb(21, 190, 35);"><i>Hello buddies </i></h1></center>
-      <h2 style="color:rgb(241, 238, 19);"><i>______________ I hope you are doing well . </i></h2>
+      <center><h2 style="color:rgb(241, 238, 19);"><i> I hope you are doing well . </i></h2></center>
     <h2 style="color:rgb(24, 8, 252);"><i>I Invite you all to   get together to add some  sweet memories to our life.<br> Get  a break  for our studies and Share our good and bad experiences  and memories with our buddies.<br> Let's have Aa Fun with friends  which we have missed  for  3 years.<br></i></h2>
     <center><h2 style="color:rgb(214, 57, 9);"><i> Venue : Kailasagiri<br>Date  : 06/10/2019<br>Day : Monday </i></h2></center>
       <table border="8" cellsize="20">
@@ -26,7 +31,7 @@
               <h5 style="color:rgb(253, 35, 6);"><i>click on photo to see the memories(10th batch)</i></h5>
             </tr>
             <td>
-                <a href="https://www.youtube.com/watch?v=gnRCyLB6GeM&t=4s"><h1><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71174774_378828736360754_3999100764348743680_n.jpg?_nc_cat=108&_nc_oc=AQmaD6ldIeIrBMKeartb2r0-ygKwLDAJMd5jOpiTGt_7tFl0ePA81wujA033qJv97SqXwdCR2yJwRoHdNLvpiEOL&_nc_ht=scontent.fcok1-1.fna&oh=95278e716ae9cc599ef20d14be41e5bb&oe=5E227C4A"  alt="friends" ></h1></a>
+                <a href="https://www.youtube.com/watch?v=gnRCyLB6GeM&t=4s"><h1><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71174774_378828736360754_3999100764348743680_n.jpg?_nc_cat=108&_nc_oc=AQmaD6ldIeIrBMKeartb2r0-ygKwLDAJMd5jOpiTGt_7tFl0ePA81wujA033qJv97SqXwdCR2yJwRoHdNLvpiEOL&_nc_ht=scontent.fcok1-1.fna&oh=95278e716ae9cc599ef20d14be41e5bb&oe=5E227C4A"  alt="(FRIENDS)" ></h1></a>
             </td>
         </tr>
         </table>
@@ -60,7 +65,7 @@
             <td> <a href="https://m.facebook.com/profile.php?id=100028152460518&ref=content_filter" ><h3>  VENNELA  </h3></a></td>
             <td> <a href="https://m.facebook.com/profile.php?id=100031994001616&ref=content_filter" ><h3>CHANDRA SHEKHR </h3></a></td>
             <td> <a href="https://m.facebook.com/profile.php?id=100032633631080&ref=content_filter" ><h3> ANAND </h3></a></td>
-            <td> <a href="" ><h3>  BALAJI </h3></a></td>
+            <td> <a href="https://www.facebook.com/profile.php?id=100021515361308" ><h3>  BALAJI </h3></a></td>
         </tr>
       <tr>
           <td> <a href="https://m.facebook.com/profile.php?id=100030161975932" ><h3>  PRADEEP </h3></a></td>
@@ -68,7 +73,7 @@
           <td> <a href="https://m.facebook.com/profile.php?id=100041034280577" ><h3> SHAFIYA </h3></a></td>
           <td> <a href="https://m.facebook.com/profile.php?id=100031179608311" ><h3>  NADIYA  </h3></a></td>
           <td> <a href="https://m.facebook.com/archana.ab.758?tsid=0.32994423310325094&source=result" ><h3> ARCHANA  </h3></a></td>
-          <td> <a href="" ><h3> RACHANA </h3></a></td>
+          <td> <a href="https://www.instagram.com/rachanarachu192/?igshid=1dehnnjcfm6j8" ><h3> RACHANA </h3></a></td>
           <td> <a href="" ><h3> SUCHITRA  </h3></a></td>
           <td> <a href="https://m.facebook.com/profile.php?id=100029394694143" ><h3> PUSHPA   </h3></a></td>
       </tr>
