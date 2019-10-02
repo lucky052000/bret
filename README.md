@@ -5,7 +5,7 @@
     <title>lucky yadav k</title>
   </head>
   <body style="background-color:rgb(168, 183, 185);">
-    <h3 style="color:rgb(240, 21, 210);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue : at kalasgiri at 10:00 (more informetion call 7259618166(lakshmikanth k) / 9731364026(rahul) /6362449630(mounika))</h3>
+    <merquee><h3 style="color:rgb(240, 21, 210);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue : at kalasgiri at 10:00 (more informetion call 7259618166(lakshmikanth k) / 9731364026(rahul) /6362449630(mounika))</h3></marquee>
     <table>
         <tr>
             <td>
