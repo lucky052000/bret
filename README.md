@@ -5,7 +5,8 @@
     <title>lucky yadav k</title>
   </head>
   <body style="background-color:rgb(168, 183, 185);">
-    <merquee><h3 style="color:rgb(240, 21, 210);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue : at kalasgiri at 10:00 (more informetion call 7259618166(lakshmikanth k) / 9731364026(rahul) /6362449630(mounika))</h3></marquee>
+    <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
+    <merquee><h3 style="color:rgb(240, 21, 210);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kalasgiri at 10:00 (more information call 7259618166(lakshmikanth k) / 9731364026(rahul) /6362449630(mounika))</h3></marquee>
     <table>
         <tr>
             <td>
@@ -82,6 +83,5 @@
           <td> <a href="https://m.facebook.com/profile.php?id=100029394694143" ><h3> PUSHPA   </h3></a></td>
       </tr>
     </table>
-    
-  </body>
-</html>
+    <h2 
+    <h1> in case any one are missing means contact this numder</h>
