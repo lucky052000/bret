@@ -56,7 +56,7 @@
       <tr>
         <td> <a href="https://m.facebook.com/profile.php?id=100027745871240" ><h3>BHASKAR</h3></a></td>
       <td> <a href="https://m.facebook.com/profile.php?id=100026176860847&ref=content_filter" ><h3>PRAKESH M V</h3></a></td>
-      <td> <a href="https://m.facebook.com/vickyreddys.vicky" ><h3>GAGAN  M A</h3></a></td>
+      <td> <a href="https://www.instagram.com/vickyreddysvicky/" ><h3>GAGAN  M A</h3></a></td>
       <td> <a href="https://m.facebook.com/profile.php?id=100013524070129" > <h3> NAGESH</h3></a></td>
       <td> <a href="https://www.instagram.com/divyareedie/" ><h3>DIVYA </h3></a></td>
       <td> <a href="https://www.instagram.com/bhavanireddykv/" ><h3>BHAVANI </h3></a></td>
