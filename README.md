@@ -6,7 +6,7 @@
   </head>
   <body style="background-color:rgb(168, 183, 185);">
     <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
-    <merquee><h3 style="color:rgb(240, 21, 210);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kalasgiri at 10:00 a.m <br> (more information call 7259618166(lakshmikanth k)  9731364026(rahul) 6362449630(mounika))</h3></marquee>
+    <merquee><h3 style="color:rgb(240, 21, 210);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kalasgiri at 10:00 am <br>👉 more information call 7259618166(lakshmikanth k)  9731364026(rahul) 6362449630(mounika))</h3></marquee>
     <table>
         <tr>
             <td>
