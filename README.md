@@ -6,7 +6,7 @@
   </head>
   <body style="background-color:rgb(168, 183, 185);">
     <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
-    <merquee><h3 style="color:rgb(240, 21, 210);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kalasgiri at 10:00 am <br>👉 more information call 7259618166(lakshmikanth k)  9731364026(rahul) 6362449630(mounika))</h3></marquee>
+    <merquee><h3 style="color:rgb(240, 21, 210);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kalasgiri at 10:00 am <br>👉 more information call 7259618166(lakshmikanth k)  9731364026(rahul) 6362449630(mounika)</h3>
     <table>
         <tr>
             <td>
@@ -27,8 +27,8 @@
            
             </table>
       <center><h1 style="color:rgb(21, 190, 35);"><i>Hello buddies </i></h1></center>
-      <center><h2 style="color:rgb(241, 238, 19);"><i> I hope you are doing well . </i></h2></center>
-    <h2 style="color:rgb(252, 8, 8);"><i>I Invite you all to   get together to add some  sweet memories to our life.<br> Get  a break  for our studies and Share our good and bad experiences  and memories with our buddies.<br> Let's have Aa Fun with friends  which we have missed  for  3 years.<br></i></h2>
+      <center><h2 style="color:rgb(241, 238, 19);"><i> I hope you all are doing well . </i></h2></center>
+    <h2 style="color:rgb(252, 8, 8);"><i> Inviting you all to   get together to add some  sweet memories to our life.<br> Get  a break  for our studies and Share our good and bad experiences  and memories with our buddies.<br> Let's have Aa Fun with friends  which we have missed  for  3 years.<br></i></h2>
     <center><h2 style="color:rgb(214, 57, 9);"><i> Venue : Kailasagiri<br>Date  : 06/10/2019<br>Day : Monday </i></h2></center>
       <table border="8" cellsize="20">
         <tr>
