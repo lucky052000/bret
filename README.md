@@ -41,7 +41,7 @@
                 <a href="https://www.youtube.com/watch?v=gnRCyLB6GeM&t=4s"><h1><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71184656_379050316338596_7395546913317060608_n.jpg?_nc_cat=110&_nc_oc=AQmChAqrXJ4Rehw52MaKCMjYnNxnD7CM1cD0dXzU15tWARCVdlnzZ7dC_htvd1-MjFoOQKiK2uam_jtlul4PEq9L&_nc_ht=scontent.fcok1-1.fna&oh=761936cd4d21495d973deaf093419d75&oe=5E28EDED"  alt="(FRIENDS)" ></h1></a>
             </td>
             <td>
-            <a href="https://www.youtube.com/watch?v=gnRCyLB6GeM&t=4s"><h1><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71531598_378828829694078_7222026326138421248_n.jpg?_nc_cat=103&_nc_oc=AQkhVjQU3NcP_LGry-P3O7SKTGVYijcEghByC1y61UnBHjO-x2-dQBrFTqWQO3hHKaNTW7fO2MsUaLqVPAaEkcdm&_nc_ht=scontent.fcok1-1.fna&oh=0edf1cf085363f68c173c20fd80b14f3&oe=5E360CBA"  alt="(FRIENDS)" ></h1></a>
+            <a href="https://www.youtube.com/watch?v=rFmXLOc_lws&t=10s"><h1><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71531598_378828829694078_7222026326138421248_n.jpg?_nc_cat=103&_nc_oc=AQkhVjQU3NcP_LGry-P3O7SKTGVYijcEghByC1y61UnBHjO-x2-dQBrFTqWQO3hHKaNTW7fO2MsUaLqVPAaEkcdm&_nc_ht=scontent.fcok1-1.fna&oh=0edf1cf085363f68c173c20fd80b14f3&oe=5E360CBA"  alt="(FRIENDS)" ></h1></a>
             </td>
         </tr>
         </table>
