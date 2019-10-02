@@ -8,7 +8,7 @@
     <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
     <h3 style="color:rgb(12, 221, 248);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kailasgiri at 10:00 am </h3>
     <h3 style="color:rgb(248, 12, 177);">👉 more information call 7259618166(lakshmikanth k)  9731364026(rahul) 6362449630(mounika)</h3>
-    <table border="1">
+    <table border="8" cellsize="20">
         <tr>
             <td>
                     <img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/72248817_378828753027419_5910140131922149376_n.jpg?_nc_cat=110&_nc_oc=AQldXA_6xYlMn7jiMSRmYDwLRe0m16BAiDt26oMpmhMSwdlEZg8S5SCYwSOxR-p91efZlyk-ytfAtd5i50Hg4sur&_nc_ht=scontent.fcok1-1.fna&oh=cf3805cefeb1bb11af57bde40419218c&oe=5E24FDCC"  alt="BRET" >
