@@ -27,7 +27,7 @@
       </tr>
            
             </table>
-      <center><h1 style="color:rgb(21, 190, 35);"><i>Hello buddies </i></h1></center>
+      <center><h1 style="color:rgb(21, 190, 35);"><i>♥♥♥Hello buddies♥♥♥ </i></h1></center>
       <center><h2 style="color:rgb(241, 238, 19);"><i> I hope you all are doing well . </i></h2></center>
     <h2 style="color:rgb(252, 8, 8);"><i> Inviting you all to   get together to add some  sweet memories to our life.<br> Get  a break  for  studies and Share  good and bad experiences , memories with our buddies.<br> Let's have fun with friends  which we have missed  from  3 years.<br></i></h2>
     <center><h2 style="color:rgb(214, 57, 9);"><i> Venue : Kailasagiri<br>Date  : 07/10/2019<br>Day : Monday </i></h2></center>
@@ -37,7 +37,7 @@
               <h5 style="color:rgb(253, 35, 6);"><i>click on photo to see the memories(10th batch)</i></h5>
             </tr>
             <td>
-                <a href="https://www.youtube.com/watch?v=gnRCyLB6GeM&t=4s"><h1><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71174774_378828736360754_3999100764348743680_n.jpg?_nc_cat=108&_nc_oc=AQmaD6ldIeIrBMKeartb2r0-ygKwLDAJMd5jOpiTGt_7tFl0ePA81wujA033qJv97SqXwdCR2yJwRoHdNLvpiEOL&_nc_ht=scontent.fcok1-1.fna&oh=95278e716ae9cc599ef20d14be41e5bb&oe=5E227C4A"  alt="(FRIENDS)" ></h1></a>
+                <a href="https://www.youtube.com/watch?v=gnRCyLB6GeM&t=4s"><h1><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71184656_379050316338596_7395546913317060608_n.jpg?_nc_cat=110&_nc_oc=AQmChAqrXJ4Rehw52MaKCMjYnNxnD7CM1cD0dXzU15tWARCVdlnzZ7dC_htvd1-MjFoOQKiK2uam_jtlul4PEq9L&_nc_ht=scontent.fcok1-1.fna&oh=761936cd4d21495d973deaf093419d75&oe=5E28EDED"  alt="(FRIENDS)" ></h1></a>
             </td>
         </tr>
         </table>
