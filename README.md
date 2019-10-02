@@ -29,7 +29,7 @@
             </table>
       <center><h1 style="color:rgb(21, 190, 35);"><i>♥♥Hello buddies♥♥</i></h1></center>
       <center><h2 style="color:rgb(241, 238, 19);"><i> I hope you all are doing well . </i></h2></center>
-    <h2 style="color:rgb(252, 8, 8);"><i> Inviting you all to   get together to add some  sweet memories to our life.<br> Get  a break  for  studies and Share  good and bad experiences , memories with our buddies.<br> Let's have fun with friends  which we have missed  from  3 years.<br></i></h2>
+    <h2 style="background-color:rgb(252, 8, 8);"><i> Inviting you all to   get together to add some  sweet memories to our life.<br> Get  a break  for  studies and Share  good and bad experiences , memories with our buddies.<br> Let's have fun with friends  which we have missed  from  3 years.<br></i></h2>
     <center><h2 style="color:rgb(214, 57, 9);"><i> Venue : Kailasagiri<br>Date  : 07/10/2019<br>Day : Monday </i></h2></center>
       <table border="8" cellsize="20">
         <tr>
