@@ -8,7 +8,7 @@
     <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
     <h3 style="color:rgb(12, 221, 248);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kailasgiri at 10:00 am </h3>
     <h3 style="color:rgb(248, 12, 177);">👉 more information call 7259618166(lakshmikanth k)  9731364026(rahul) 6362449630(mounika)</h3>
-    <table border="8" cellsize="20">
+    <table border="8" cellsize="20" style="background-color:green">
         <tr>
             <td>
                     <img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/72248817_378828753027419_5910140131922149376_n.jpg?_nc_cat=110&_nc_oc=AQldXA_6xYlMn7jiMSRmYDwLRe0m16BAiDt26oMpmhMSwdlEZg8S5SCYwSOxR-p91efZlyk-ytfAtd5i50Hg4sur&_nc_ht=scontent.fcok1-1.fna&oh=cf3805cefeb1bb11af57bde40419218c&oe=5E24FDCC"  alt="BRET" >
@@ -31,7 +31,7 @@
       <center><h2 style="color:rgb(241, 238, 19);"><i> I hope you all are doing well . </i></h2></center>
     <h2 style="background-color:rgb(252, 8, 8);"><i> Inviting you all to   get together to add some  sweet memories to our life.<br> Get  a break  for  studies and Share  good and bad experiences , memories with our buddies.<br> Let's have fun with friends  which we have missed  from  3 years.<br></i></h2>
     <center><h2 style="color:rgb(214, 57, 9);"><i> Venue : Kailasagiri<br>Date  : 07/10/2019<br>Day : Monday </i></h2></center>
-      <table border="8" cellsize="20">
+      <table border="8" cellsize="20" style="background-color:green">
         <tr>
             <tr>
               <h5 style="color:rgb(253, 35, 6);"><i>click on photo to see the memories(10th batch)</i></h5>
@@ -42,7 +42,7 @@
         </tr>
         </table>
         <h3 style="color:rgb(253, 35, 6);"><i>click on the name you want detials about them</i></h3>
-    <table border="8" cellsize="20">
+    <table border="8" cellsize="20" style="background-color:green">
       <tr>
         <td> <a href="https://m.facebook.com/profile.php?id=100011822089107" ><h3>LAKSHMI KANTH K</h3></a></td>
       <td> <a href="https://www.instagram.com/rajani727/" ><h3>RAJINI KANTH K</h3></a></td>
