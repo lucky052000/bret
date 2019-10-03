@@ -6,7 +6,7 @@
   </head>
   <body style="background-color:rgb(168, 183, 185);">
     <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
-    <h3 style="color:rgb(12, 221, 248);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kaiwara park at 10:00 am </h3>
+   <marquee> <h3 style="color:rgb(12, 221, 248);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kaiwara park at 10:00 am </h3></marquee>
     <h3 style="color:rgb(248, 12, 177);">👉 more information call 7259618166(lakshmikanth k)  9731364026(rahul) 6362449630(mounika)</h3>
     <table border="8" cellsize="20" style="background-color:green">
         <tr>
