@@ -8,8 +8,8 @@
     <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
    <marquee> <h3 style="color:rgb(12, 221, 248);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kaiwara park at 10:00 am </h3></marquee>
     <h3 style="color:rgb(248, 12, 177);">👉 more information call 7259618166(lakshmikanth k)  9731364026(rahul) 6362449630(mounika)</h3>
-    <table border="8" cellsize="20" style="background-color:green">
-        <tr>
+   <!--- <table border="8" cellsize="20" style="background-color:green">--->
+   <merquee>     <tr>
             <td>
                     <img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/72248817_378828753027419_5910140131922149376_n.jpg?_nc_cat=110&_nc_oc=AQldXA_6xYlMn7jiMSRmYDwLRe0m16BAiDt26oMpmhMSwdlEZg8S5SCYwSOxR-p91efZlyk-ytfAtd5i50Hg4sur&_nc_ht=scontent.fcok1-1.fna&oh=cf3805cefeb1bb11af57bde40419218c&oe=5E24FDCC"  alt="BRET" >
             </td>
@@ -25,8 +25,7 @@
                     <img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71760388_378828706360757_588200710399590400_n.jpg?_nc_cat=111&_nc_oc=AQl73gMzShwRY8FkcrY1SIHAI7HupJBKPqzWH5jM3XnPAIwBMcX6TBj8xO5hHr9OuYEJViqfyQ8guF_SPMDNui5-&_nc_ht=scontent.fcok1-1.fna&oh=2708f91149f1da6e983faede545f1944&oe=5DF45884"  alt="BRET" >
             </td>
       </tr>
-           
-            </table>
+    </merquee>
       <center><h1 style="color:rgb(21, 190, 35);"><i>♥♥Hello buddies♥♥</i></h1></center>
       <center><h2 style="color:rgb(241, 238, 19);"><i> I hope you all are doing well . </i></h2></center>
     <h2 style="background-color:rgb(252, 8, 8);"><i> Inviting you all to   get together to add some  sweet memories to our life.<br> Get  a break  for  studies and Share  good and bad experiences , memories with our buddies.<br> Let's have fun with friends  which we have missed  from  3 years.<br></i></h2>
