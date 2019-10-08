@@ -18,6 +18,9 @@
             <td>
             <a href="https://www.youtube.com/watch?v=VDZ3AugwWPA&feature=youtu.be"><h1><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71531598_378828829694078_7222026326138421248_n.jpg?_nc_cat=103&_nc_oc=AQkhVjQU3NcP_LGry-P3O7SKTGVYijcEghByC1y61UnBHjO-x2-dQBrFTqWQO3hHKaNTW7fO2MsUaLqVPAaEkcdm&_nc_ht=scontent.fcok1-1.fna&oh=0edf1cf085363f68c173c20fd80b14f3&oe=5E360CBA"  alt="(FRIENDS)" ></h1></a>
             </td>
+            <td>
+                <a href="https://www.youtube.com/watch?v=gnRCyLB6GeM&t=4s"><h1><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71174774_378828736360754_3999100764348743680_n.jpg?_nc_cat=108&_nc_oc=AQmsCBag-pr7RLsuidud431s5E-UjL-1yEWBg8mcUnF53hkdmJ7nXoyK4tT2AUsPTs6nz8XQCMISaXgqq8gkc4SK&_nc_ht=scontent.fcok1-1.fna&oh=225528e78dce454111b0b0b5f3647672&oe=5E227C4A"  alt="(FRIENDS)" ></h1></a>
+            </td>
         </tr>
         </table>
         <h3 style="color:rgb(253, 35, 6);"><i>click on the name you want detials about them</i></h3>
