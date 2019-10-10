@@ -6,7 +6,9 @@
   </head>
   <body style="background-color:rgb(168, 183, 185);">
     <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
-   <table> <tr>
+    <marquee> <h3 style="color:rgb(12, 221, 248);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kaiwara park at 10:00 am </h3></marquee>
+
+ <table> <tr>
             <tr>
             <td><h5 style="color:rgb(253, 35, 6);"><i>click on ⬇ photo to see the memories(all students)</i></h5></td>
              <td><h5 style="color:rgb(253, 35, 6);"><i>click on ⬇ photo to see the opinion about BRET</i></h5></td>
