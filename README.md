@@ -25,6 +25,8 @@
             </td>
         </tr>
         </table>
+<marquee><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/72248817_378828753027419_5910140131922149376_n.jpg?_nc_cat=110&_nc_oc=AQldXA_6xYlMn7jiMSRmYDwLRe0m16BAiDt26oMpmhMSwdlEZg8S5SCYwSOxR-p91efZlyk-ytfAtd5i50Hg4sur&_nc_ht=scontent.fcok1-1.fna&oh=cf3805cefeb1bb11af57bde40419218c&oe=5E24FDCC"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71531598_378828829694078_7222026326138421248_n.jpg?_nc_cat=103&_nc_oc=AQmxyoEcyO-Tii85keNrafhtxh4ZjaLRf3AHPOtTr5m9Hatp1DRy2GayliQEI8xhw_CPy_RA-DtKBc0UrSCUIlyd&_nc_ht=scontent.fcok1-1.fna&oh=03c31095ccc2bbb216d0eb293d4e2637&oe=5E360CBA"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71567985_378828716360756_4409058837315715072_n.jpg?_nc_cat=105&_nc_oc=AQl85OJ5tIp3iQeoMtZ1Goh6Om4xMzsTDbWltq_9V4otoH9BIcUFb7mCTPBT3w0ugmBweLgNy9gHiHuMQBIKKJla&_nc_ht=scontent.fcok1-1.fna&oh=2878de5f1af383de94e6ac2ebff2acc8&oe=5E32849A"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71760388_378828706360757_588200710399590400_n.jpg?_nc_cat=111&_nc_oc=AQl73gMzShwRY8FkcrY1SIHAI7HupJBKPqzWH5jM3XnPAIwBMcX6TBj8xO5hHr9OuYEJViqfyQ8guF_SPMDNui5-&_nc_ht=scontent.fcok1-1.fna&oh=2708f91149f1da6e983faede545f1944&oe=5DF45884"  alt="BRET" ></marquee>
+
         <h3 style="color:rgb(253, 35, 6);"><i>click on the name you want detials about them</i></h3>
     <table border="8" cellsize="20" style="background-color:green">
       <tr>
