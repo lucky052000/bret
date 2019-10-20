@@ -71,4 +71,4 @@
       </tr>
       
     </table>
-    <a downlod href="IMG-20191007-WA0014.jpg" href="IMG-20191007-WA0015.jpg"> click here to see the photos</a>
+    <a downlod href="https://photos.app.goo.gl/rCGwvUq3Q7TVGQAv5"> click here to see the photos</a>
