@@ -71,4 +71,6 @@
       </tr>
       
     </table>
-    <a downlod href="https://photos.app.goo.gl/rCGwvUq3Q7TVGQAv5"> click here to see the photos</a>
+    <a downlod href="https://photos.app.goo.gl/rCGwvUq3Q7TVGQAv5"> click here to see the all photos of get together party at 2019</a>
+</body>
+</html>
