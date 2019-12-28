@@ -4,12 +4,7 @@
     <meta charset="utf-8">
     <title>lucky yadav k</title>
   </head>
-  <body style="background-color:rgb(168, 183, 185);">
-    <h3 class="LC20lb">
-      <span class="S3Uucc">
-        Download WhatsApp
-      </span>
-    </h3>
+  <body style="background-image">
     <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
     <marquee> <h3 style="color:rgb(12, 221, 248);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kaiwara park at 10:00 am </h3></marquee>
  <table> <tr>
