@@ -4,6 +4,12 @@
       <meta charset="utf-8">
       <title>lucky yadav k</title>
       <style>
+        #lk{
+            background-image: url(https://lh3.googleusercontent.com/km4zF8THVR-yUT8aHlQlYlthsOOZG4sbuZpnebJaS6qQz2Le_CU51yceDpGvcxo_qrmTKiaYEfpsM4qiH3WESJWSls8i0YZIbFr7xA2gc6b-3rlo7NyXXOmDIhX4mtB13VD5w6CgOw=w577-h267-no);
+                          background-size: 100%;
+                          background-repeat: 1;
+                          background-position:center;
+        }
         #yuy{
             background-image:url(https://lh3.googleusercontent.com/ZrAcMCjM8iO7SOlTOkHU6B1aVqS-TCetQCLRITQPYh0lIYIFzFtCicpKxXD_4oSdp1Eaua47Cv0mt2N6begq1BkT_JFGG0ZrEWYOdwboGY0gVym3agU1k9xg2Ihzy1L8CvUGzO_8suXggwDB6q8CqaeLSMKeA9ou7Leuy_Nltm30lD1D-MkseI07OhF4BLZBLXPF-753UwKwdllL3GfrIe9xnsXQI5j51_01iawjsTThzc-tIxALOrrwWc7VJ2CNBmBWywc2XZQ0JKquxmpA8_3ejvGxUPe80milTYjDhVHYWV_0XkMTMJW9UBtRie4-CZUVmBjb95CrEytkfzIfXMAWUpTElH8Uzpzvej1oIFBrbnMBaGJvdOaHw3lKcVtFg89oyf7V38uebaHMedXkjgnTTqbICRX3j6DgvPWscYiz58uBxuMRS705_odh5RCB1SUfLffDIkMfS5m_vWmpSbpcdm7AeDG6ruDThVlCfJKR27a00DIkWU4YVChMB3LYDXkq3svRS8kB5WsWWlBxgXV95huMYiPGB_OwtvUDcSDv7wkrJBSai1Fw6VuambyOxV2stWcKxOvqqmZQoeqhBBswj3aP2Z5X2DRsC7Pjy2Yc2IUKDQpGZxEaoX2lV_7oAX-H2sijMFQF8RoNRoIV125ks87yAzhIVd_kMA6lO5EItBH5HuH11pOSey0vec8zBy0I2v0meXJYqvVaYjBg8XHZO-5Yo2XAOQY3FGSDiioYxKQ=w1280-h720-no);
             background-position: cover;
@@ -19,6 +25,7 @@
       </style>
     </head>
     <body>
+      <div id="lk">
       <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
       <marquee> <h3 style="color:rgb(12, 221, 248);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kaiwara park at 10:00 am </h3></marquee>
    <table > <tr>
@@ -39,7 +46,7 @@
           </tr>
           </table>
   <marquee><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/72248817_378828753027419_5910140131922149376_n.jpg?_nc_cat=110&_nc_oc=AQldXA_6xYlMn7jiMSRmYDwLRe0m16BAiDt26oMpmhMSwdlEZg8S5SCYwSOxR-p91efZlyk-ytfAtd5i50Hg4sur&_nc_ht=scontent.fcok1-1.fna&oh=cf3805cefeb1bb11af57bde40419218c&oe=5E24FDCC"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71531598_378828829694078_7222026326138421248_n.jpg?_nc_cat=103&_nc_oc=AQmxyoEcyO-Tii85keNrafhtxh4ZjaLRf3AHPOtTr5m9Hatp1DRy2GayliQEI8xhw_CPy_RA-DtKBc0UrSCUIlyd&_nc_ht=scontent.fcok1-1.fna&oh=03c31095ccc2bbb216d0eb293d4e2637&oe=5E360CBA"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71567985_378828716360756_4409058837315715072_n.jpg?_nc_cat=105&_nc_oc=AQl85OJ5tIp3iQeoMtZ1Goh6Om4xMzsTDbWltq_9V4otoH9BIcUFb7mCTPBT3w0ugmBweLgNy9gHiHuMQBIKKJla&_nc_ht=scontent.fcok1-1.fna&oh=2878de5f1af383de94e6ac2ebff2acc8&oe=5E32849A"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71760388_378828706360757_588200710399590400_n.jpg?_nc_cat=111&_nc_oc=AQl73gMzShwRY8FkcrY1SIHAI7HupJBKPqzWH5jM3XnPAIwBMcX6TBj8xO5hHr9OuYEJViqfyQ8guF_SPMDNui5-&_nc_ht=scontent.fcok1-1.fna&oh=2708f91149f1da6e983faede545f1944&oe=5DF45884"  alt="BRET" ></marquee>
-  
+      </div>
           <h3 style="color:rgb(253, 35, 6);"><i>click on the name you want detials about them</i></h3>
       <table border="8" cellsize="20" id="yuy">
         <tr>
