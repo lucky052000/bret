@@ -29,8 +29,6 @@
       </style>
     </head>
     <body>
-     Iffuvuvvuh
-Guvycvcyt
       <div id="lk">
       <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
    <table > <tr>
@@ -99,12 +97,10 @@ Guvycvcyt
       </table>
       </div>
       <a downlod href="https://photos.app.goo.gl/rCGwvUq3Q7TVGQAv5"> click here to see the all photos of get together party at 2019</a>
-  </body>
   <form action="gmail:lakshmikanthkcse@gmail.com" method="post" >
    <textarea rows="4" cols="50">
      Write something best experience feelings or your sweet memories about BRET school</textarea>
      <input type="submit" value="send">
    </form>
-Lk
 </body>
 </html>
