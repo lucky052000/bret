@@ -4,6 +4,14 @@
       <meta charset="utf-8">
       <title>lucky yadav k</title>
       <style>
+        body{
+                          background-image: url(https://lh3.googleusercontent.com/n_h8XLTLXjPblB0SYg80ZlwrftLBFl1OXaUwC626vLUUk1e3pFNQYxZkgjkgJdLBQBfKuT1D7uP5ooIbc_mijGS687SB_iCd0A5GKLpEYlCFhy-COqTKKtmjtpdNnNmlQjJrHXAWxKdnlYb-8YaXhGyTct_hgs1b1_rH8iYhUQ6ZoKGWq-tRirga_Uvk_hdMT46pGGGVJefqYYy663gw0ILbA2jima_af-UU_9bhP46pSqFAvaXAavb01LKyIzR-mvj0LLC5vKKiBabhUN07ppqRmHETesHlZ8REy6yQWQOc63MgnlRjG386PaH9NuGU1NM5qVZnxg4NLv9pd_3iRu7yx7gN9pIcqxhmtZfMTqKNJwmQ6P9tg2y-D4YG5Mpq5LH1GDlktSpKPCg2hSJ8vfc4jcO3HhWiDevq4XKDBxXpU78tJAcc9kFFqt1_xAOX7EF8s8zvjMXy3WvJEmdNF_X7IJEWC1Hqc-PuAmmYrQslMVhdoK7EiIjUneB4SuFTAwqSPlgOwSMN0FmsBfUOOROxk_fvmSYMlGhKFytxGM6J-3ndHK5R1CPcPT-7jt2Q2EvLVbss2wScXrNJYPcDM4Ti2BbxGhDfPzWxgZGmTYQM886Tgm1e7ECQmbNPL7Z68A1ZGMScxOlKBn0eK5azvDbw_OPWQedRjl0MlhlHkkT-UhLdbBa2eFMlcEdyhF8hEJTFhoRJ7Z3CV8Fk3nhV4I-X5Fpc962CzWf56eczk4LTxc8=w648-h1152-no);
+                          background-size: 100%;
+                          background-repeat: 1;
+                          background-position:center;
+      
+            }
+
         #lk{
             background-image: url(https://lh3.googleusercontent.com/km4zF8THVR-yUT8aHlQlYlthsOOZG4sbuZpnebJaS6qQz2Le_CU51yceDpGvcxo_qrmTKiaYEfpsM4qiH3WESJWSls8i0YZIbFr7xA2gc6b-3rlo7NyXXOmDIhX4mtB13VD5w6CgOw=w577-h267-no);
                           background-size: 100%;
@@ -43,6 +51,7 @@
   <marquee><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/72248817_378828753027419_5910140131922149376_n.jpg?_nc_cat=110&_nc_oc=AQldXA_6xYlMn7jiMSRmYDwLRe0m16BAiDt26oMpmhMSwdlEZg8S5SCYwSOxR-p91efZlyk-ytfAtd5i50Hg4sur&_nc_ht=scontent.fcok1-1.fna&oh=cf3805cefeb1bb11af57bde40419218c&oe=5E24FDCC"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71531598_378828829694078_7222026326138421248_n.jpg?_nc_cat=103&_nc_oc=AQmxyoEcyO-Tii85keNrafhtxh4ZjaLRf3AHPOtTr5m9Hatp1DRy2GayliQEI8xhw_CPy_RA-DtKBc0UrSCUIlyd&_nc_ht=scontent.fcok1-1.fna&oh=03c31095ccc2bbb216d0eb293d4e2637&oe=5E360CBA"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71567985_378828716360756_4409058837315715072_n.jpg?_nc_cat=105&_nc_oc=AQl85OJ5tIp3iQeoMtZ1Goh6Om4xMzsTDbWltq_9V4otoH9BIcUFb7mCTPBT3w0ugmBweLgNy9gHiHuMQBIKKJla&_nc_ht=scontent.fcok1-1.fna&oh=2878de5f1af383de94e6ac2ebff2acc8&oe=5E32849A"  alt="BRET" ><img src="https://scontent.fcok1-1.fna.fbcdn.net/v/t1.0-9/71760388_378828706360757_588200710399590400_n.jpg?_nc_cat=111&_nc_oc=AQl73gMzShwRY8FkcrY1SIHAI7HupJBKPqzWH5jM3XnPAIwBMcX6TBj8xO5hHr9OuYEJViqfyQ8guF_SPMDNui5-&_nc_ht=scontent.fcok1-1.fna&oh=2708f91149f1da6e983faede545f1944&oe=5DF45884"  alt="BRET" ></marquee>
       </div>
           <h3 style="color:rgb(253, 35, 6);"><i>click on the name you want detials about them</i></h3>
+      <div id="lk">
       <table border="8" cellsize="20" id="yuy">
         <tr>
           <td> <a href="https://m.facebook.com/profile.php?id=100011822089107" ><h3>LAKSHMI KANTH K</h3></a></td>
@@ -86,6 +95,7 @@
         </tr>
         
       </table>
+      </div>
       <a downlod href="https://photos.app.goo.gl/rCGwvUq3Q7TVGQAv5"> click here to see the all photos of get together party at 2019</a>
   </body>
   </html>
@@ -94,4 +104,3 @@
      Write something best experience feelings or your sweet memories about BRET school</textarea>
      <input type="submit" value="send">
    </form>
-Bret
