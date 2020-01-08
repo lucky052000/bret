@@ -27,7 +27,6 @@
     <body>
       <div id="lk">
       <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
-      <marquee> <h3 style="color:rgb(12, 221, 248);">invited  all lovely friends who have studied at BRET from LKG(2004) to 10th(2016) // venue :  kaiwara park at 10:00 am </h3></marquee>
    <table > <tr>
               <tr>
               <td><h5 style="color:rgb(253, 35, 6);"><i>click on ⬇ photo to see the memories(all students)</i></h5></td>
@@ -82,7 +81,7 @@
         <tr>
             <td> <a href="https://m.facebook.com/profile.php?id=100030161975932" ><h3>  PRADEEP </h3></a></td>
             <td> <a href="https://m.facebook.com/profile.php?id=100015506234273&ref=content_filter" ><h3> PRAVEEN </h3></a></td>
-            <td> <a href="https://m.facebook.com/profile.php?id=100041034280577" ><h3> SHAFIYA </h3></a></td>
+            <td> <a href ki="https://m.facebook.com/profile.php?id=100041034280577" ><h3> SHAFIYA </h3></a></td>
             <td> <a href="https://m.facebook.com/profile.php?id=100031179608311" ><h3>  NADIYA  </h3></a></td>
             <td> <a href="https://m.facebook.com/archana.ab.758?tsid=0.32994423310325094&source=result" ><h3> ARCHANA  </h3></a></td>
             <td> <a href="https://www.instagram.com/rachanarachu192/?igshid=1dehnnjcfm6j8" ><h3> RACHANA </h3></a></td>
