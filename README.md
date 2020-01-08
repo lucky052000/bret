@@ -89,7 +89,7 @@
       <a downlod href="https://photos.app.goo.gl/rCGwvUq3Q7TVGQAv5"> click here to see the all photos of get together party at 2019</a>
   </body>
   </html>
-  <form action="gmailto:lakshmikanthkcse@gmail.com" method="post" >
+  <form action="gmail:lakshmikanthkcse@gmail.com" method="post" >
    <textarea rows="4" cols="50">
      Write something best experience feelings or your sweet memories about BRET school</textarea>
      <input type="submit" value="send">
