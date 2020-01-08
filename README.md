@@ -102,5 +102,6 @@
      Write something best experience feelings or your sweet memories about BRET school</textarea>
      <input type="submit" value="send">
    </form>
+Hi
 </body>
 </html>
