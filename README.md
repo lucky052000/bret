@@ -9,19 +9,15 @@
                           background-size: 100%;
                           background-repeat: 1;
                           background-position:center;
+                          width:100%;
         }
         #yuy{
             background-image:url(https://lh3.googleusercontent.com/ZrAcMCjM8iO7SOlTOkHU6B1aVqS-TCetQCLRITQPYh0lIYIFzFtCicpKxXD_4oSdp1Eaua47Cv0mt2N6begq1BkT_JFGG0ZrEWYOdwboGY0gVym3agU1k9xg2Ihzy1L8CvUGzO_8suXggwDB6q8CqaeLSMKeA9ou7Leuy_Nltm30lD1D-MkseI07OhF4BLZBLXPF-753UwKwdllL3GfrIe9xnsXQI5j51_01iawjsTThzc-tIxALOrrwWc7VJ2CNBmBWywc2XZQ0JKquxmpA8_3ejvGxUPe80milTYjDhVHYWV_0XkMTMJW9UBtRie4-CZUVmBjb95CrEytkfzIfXMAWUpTElH8Uzpzvej1oIFBrbnMBaGJvdOaHw3lKcVtFg89oyf7V38uebaHMedXkjgnTTqbICRX3j6DgvPWscYiz58uBxuMRS705_odh5RCB1SUfLffDIkMfS5m_vWmpSbpcdm7AeDG6ruDThVlCfJKR27a00DIkWU4YVChMB3LYDXkq3svRS8kB5WsWWlBxgXV95huMYiPGB_OwtvUDcSDv7wkrJBSai1Fw6VuambyOxV2stWcKxOvqqmZQoeqhBBswj3aP2Z5X2DRsC7Pjy2Yc2IUKDQpGZxEaoX2lV_7oAX-H2sijMFQF8RoNRoIV125ks87yAzhIVd_kMA6lO5EItBH5HuH11pOSey0vec8zBy0I2v0meXJYqvVaYjBg8XHZO-5Yo2XAOQY3FGSDiioYxKQ=w1280-h720-no);
             background-position: cover;
             background-size: 100%;
             background-repeat: no-repeat;
+            width:100%;
         }
-        body{
-                          background-image: url(https://lh3.googleusercontent.com/n_h8XLTLXjPblB0SYg80ZlwrftLBFl1OXaUwC626vLUUk1e3pFNQYxZkgjkgJdLBQBfKuT1D7uP5ooIbc_mijGS687SB_iCd0A5GKLpEYlCFhy-COqTKKtmjtpdNnNmlQjJrHXAWxKdnlYb-8YaXhGyTct_hgs1b1_rH8iYhUQ6ZoKGWq-tRirga_Uvk_hdMT46pGGGVJefqYYy663gw0ILbA2jima_af-UU_9bhP46pSqFAvaXAavb01LKyIzR-mvj0LLC5vKKiBabhUN07ppqRmHETesHlZ8REy6yQWQOc63MgnlRjG386PaH9NuGU1NM5qVZnxg4NLv9pd_3iRu7yx7gN9pIcqxhmtZfMTqKNJwmQ6P9tg2y-D4YG5Mpq5LH1GDlktSpKPCg2hSJ8vfc4jcO3HhWiDevq4XKDBxXpU78tJAcc9kFFqt1_xAOX7EF8s8zvjMXy3WvJEmdNF_X7IJEWC1Hqc-PuAmmYrQslMVhdoK7EiIjUneB4SuFTAwqSPlgOwSMN0FmsBfUOOROxk_fvmSYMlGhKFytxGM6J-3ndHK5R1CPcPT-7jt2Q2EvLVbss2wScXrNJYPcDM4Ti2BbxGhDfPzWxgZGmTYQM886Tgm1e7ECQmbNPL7Z68A1ZGMScxOlKBn0eK5azvDbw_OPWQedRjl0MlhlHkkT-UhLdbBa2eFMlcEdyhF8hEJTFhoRJ7Z3CV8Fk3nhV4I-X5Fpc962CzWf56eczk4LTxc8=w648-h1152-no);
-                          background-size: 100%;
-                          background-repeat: 1;
-                          background-position:center;
-                      }
       </style>
     </head>
     <body>
@@ -93,8 +89,9 @@
       <a downlod href="https://photos.app.goo.gl/rCGwvUq3Q7TVGQAv5"> click here to see the all photos of get together party at 2019</a>
   </body>
   </html>
-  <form action="emailto:lakshmikanthkcse@gmail.com" method="post" >
+  <form action="gmailto:lakshmikanthkcse@gmail.com" method="post" >
    <textarea rows="4" cols="50">
      Write something best experience feelings or your sweet memories about BRET school</textarea>
      <input type="submit" value="send">
    </form>
+Bret
