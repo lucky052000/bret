@@ -97,17 +97,11 @@
       </table>
       </div>
       <a downlod href="https://photos.app.goo.gl/rCGwvUq3Q7TVGQAv5"> click here to see the all photos of get together party at 2019</a>
-  <form action="mail:lakshmikanthkcse@gmail.com" method="post" >
+  <form action="mailto:lakshmikanthkcse@gmail.com" method="post" enctype="text" >
    <textarea rows="4" cols="50">
      Write something best experience feelings or your sweet memories about BRET school</textarea>
      <input type="submit" value="send">
    </form>
-Hi
-Hj
-Hjj
-Ghj
-Hjj
-Hjj
 
 </body>
 </html>
