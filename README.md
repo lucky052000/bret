@@ -31,6 +31,8 @@
     <body>
       <div id="lk">
       <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
+       <a href="https://drive.google.com/file/d/1MkwApS4KDzsIV12MSU_xuEekVeUhshmB/view?usp=drivesdk">CLICK HERE TO DOWNLOAD THE APP<\a>
+
    <table > <tr>
               <tr>
               <td><h5 style="color:rgb(253, 35, 6);"><i>click on ⬇ photo to see the memories(all students)</i></h5></td>
