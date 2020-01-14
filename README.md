@@ -31,7 +31,7 @@
     <body>
       <div id="lk">
       <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
-       <a href="https://drive.google.com/file/d/1MkwApS4KDzsIV12MSU_xuEekVeUhshmB/view?usp=drivesdk">CLICK HERE TO DOWNLOAD THE APP<\a>
+       <a href="https://drive.google.com/file/d/1MkwApS4KDzsIV12MSU_xuEekVeUhshmB/view?usp=drivesdk"><h1>CLICK HERE TO DOWNLOAD THE APP<\h1><\a>
 
    <table > <tr>
               <tr>
@@ -62,7 +62,7 @@
         <td> <a href="https://m.facebook.com/profile.php?id=100021981224279&ref=content_filter" ><h3> GIRISH REDDY</h3></a></td>
         <td> <a href="https://m.facebook.com/profile.php?id=100015582284995&ref=content_filter" ><h3>NAGARJUNA</h3></a></td>
         <td> <a href="https://www.instagram.com/die_hard_fan_of_a_b_d/" ><h3>GANGADHAR</h3></a></td>
-        <td> <a href="https://www.instagram.com/pramodh_s_reddy/" ><h3>PRAMODH</h3></a></td>
+        <td> <a href="http loves://www.instagram.com/pramodh_s_reddy/" ><h3>PRAMODH</h3></a></td>
         <td> <a href="https://www.instagram.com/navii_k_u_m_a_r_2528/" ><h3>NAVEEN T N</h3></a></td>
         </tr>
         <tr>
@@ -100,8 +100,5 @@
       </div>
       <a downlod href="https://photos.app.goo.gl/rCGwvUq3Q7TVGQAv5"> <h3>click here to see the all photos of get together party at 2019</h3></a>
   <a href="mailto:lakshmikanthkcse@gmail.com?body=" ><input type="submit" value="click to send the best expireance about BRET <br> to add the student name to link "></a>
-</body>
-</html>
-
 </body>
 </html>
