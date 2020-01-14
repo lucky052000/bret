@@ -31,7 +31,7 @@
     <body>
       <div id="lk">
       <center> <h1 style="color:red;">BHARATHA RATHNA EDUCATIONAL TRUST(R) </h1></center>
-       <a href="https://drive.google.com/file/d/1MkwApS4KDzsIV12MSU_xuEekVeUhshmB/view?usp=drivesdk"><h1>CLICK HERE TO DOWNLOAD THE APP<\h1><\a>
+       <a href="https://drive.google.com/file/d/1MkwApS4KDzsIV12MSU_xuEekVeUhshmB/view?usp=drivesdk"><h1 style="color:red;">CLICK HERE TO DOWNLOAD THE APP<\h1><\a>
 
    <table > <tr>
               <tr>
