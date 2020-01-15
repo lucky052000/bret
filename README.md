@@ -9,6 +9,7 @@
                           background-size: 100%;
                           background-repeat: 1;
                           background-position:center;
+                          background-attachment:fixed;
       
             }
 
