@@ -101,19 +101,6 @@
       </div>
       <a downlod href="https://photos.app.goo.gl/rCGwvUq3Q7TVGQAv5"> <h3>click here to see the all photos of get together party at 2019</h3></a>
   <a href="mailto:lakshmikanthkcse@gmail.com?body="><h1 style="color:red;">click to send the best expireance about BRET to add the student name to link</h1></a>this
-<?php
-echo $_SERVER['PHP_SELF'];
-echo "<br>";
-echo $_SERVER['SERVER_NAME'];
-echo "<br>";
-echo $_SERVER['HTTP_HOST'];
-echo "<br>";
-echo $_SERVER['HTTP_REFERER'];
-echo "<br>";
-echo $_SERVER['HTTP_USER_AGENT'];
-echo "<br>";
-echo $_SERVER['SCRIPT_NAME'];
-?>
 
 </body>
 </html>
