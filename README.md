@@ -2,6 +2,8 @@
 <html>
     <head>
       <meta charset="utf-8">
+      <meta name="keyword" content="zrejafhd zhd,fafa99726656">
+       <meta name="description" content="fafa9972665699">
       <title>lucky yadav k</title>
       <style>
         body{
